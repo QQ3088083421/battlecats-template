@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "battlecats/effects/halo4"
+	"$alphatest" 1
+	"$translucent" 1
+}
